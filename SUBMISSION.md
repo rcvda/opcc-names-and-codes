@@ -6,7 +6,7 @@ Draft PROPOSAL for adding the `GB-OPCC` list to org-id.guide. Submit as a PROPOS
 
 - **List code:** `GB-OPCC`
 - **Name:** UK Police & Crime Commissioners / OPCCs (RCVDA register)
-- **Description:** Canonical identifiers for UK police-governance bodies (OPCCs and equivalents). RCVDA mints a code where the body has no usable existing identifier; where the PCC function sits with an already-identifiable body (a combined authority, the City of London Corporation, etc.) that body is referenced instead.
+- **Description:** Identifiers for UK police-governance bodies (OPCCs and equivalents). RCVDA mints a code where the body has no usable existing identifier; where the PCC function sits with an already-identifiable body (a combined authority, the City of London Corporation, etc.) that body is referenced instead.
 - **Geographic coverage:** GB (ISO 3166 — the United Kingdom, incl. Northern Ireland)
 - **Legal structure:** Statutory body / corporation sole
 - **Sector:** Policing governance

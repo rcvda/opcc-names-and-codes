@@ -1,6 +1,6 @@
 # UK Police & Crime Commissioners / OPCCs — Names and Codes (GB-OPCC)
 
-An open, coded register of the **police-governance bodies** of the UK — Offices of the Police and Crime Commissioner (OPCCs) and their equivalents — with a canonical RCVDA identifier for each body that has no usable identifier of its own.
+An open, coded register of the **police-governance bodies** of the UK — Offices of the Police and Crime Commissioner (OPCCs) and their equivalents — with an identifier for each body that has no usable identifier of its own.
 
 > **Status: work in progress.** The `GB-OPCC` scheme is **not yet registered** with [org-id.guide](https://org-id.guide). See [Roadmap](#roadmap).
 
@@ -46,6 +46,6 @@ Open Government Licence v3.0 — see [LICENSE](LICENSE).
 
 Note: the January 2026 police reform White Paper proposes abolishing PCCs/OPCCs, with the function moving to mayors and new Policing and Crime Boards. If enacted, abolished OPCCs are retired (code kept, status updated) and successor bodies referenced or minted; nothing is renumbered.
 
-## Maintainer
+## Author and maintainer
 
-Redcar & Cleveland Voluntary Development Agency (RCVDA).
+Created and maintained by Peter Neal at Redcar & Cleveland Voluntary Development Agency (RCVDA).
