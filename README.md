@@ -1,5 +1,7 @@
 # UK Police & Crime Commissioners / OPCCs — Names and Codes (GB-OPCC)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24063722.svg)](https://doi.org/10.5281/zenodo.24063722)
+
 An open, coded register of the **police-governance bodies** of the UK — Offices of the Police and Crime Commissioner (OPCCs) and their equivalents — with an identifier for each body that has no usable identifier of its own.
 
 > **Status: work in progress.** The `GB-OPCC` scheme is **not yet registered** with [org-id.guide](https://org-id.guide). See [Roadmap](#roadmap).
